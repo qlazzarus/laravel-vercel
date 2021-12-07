@@ -15,9 +15,9 @@
         }
     ],
     "env": {
-        "APP_NAME": "Laravel Vercel",
-        "APP_ENV": "local",
-        "APP_DEBUG": "true",
+        "APP_NAME": "Shiba Hyunseok",
+        "APP_ENV": "production",
+        "APP_DEBUG": "false",
         "APP_URL": "https://shiba-hyunseok.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
